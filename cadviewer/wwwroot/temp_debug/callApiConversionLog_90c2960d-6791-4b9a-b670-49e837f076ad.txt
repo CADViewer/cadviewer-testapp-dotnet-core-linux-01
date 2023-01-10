@@ -1,0 +1,11 @@
+total parameters: 2
+0,f","paramValue":"svg"},{"paramName":"last","paramValue":""}
+1,last","paramValue":""}
+WriteFile: /home/casper/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F391154.dwg
+XXX /home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg
+/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/ax2023_L64_23_10_105 "-i="/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg"" "-o="/home/casper/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F391154.svg"" "-lpath=/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/" "-f="svg"" -last
+New Arguments:  /home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/ax2023_L64_23_10_105 "-i="/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg"" "-o="/home/casper/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F391154.svg"" "-lpath=/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/" "-f="svg"" -last
+The command:  /home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux//run_ax2020.bat
+Conversion done 
+Content location: /home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg output format: svgXX
+SVG response: {"completedAction":"svg_creation","errorCode":"E0","converter":"AutoXchange AX2017","version":"V1.00","userLabel":"fromCADViewerJS","contentLocation":"/home/casper//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg","contentResponse":"stream","contentStreamData":"/CADViewer/getFile?remainOnServer=0&fileTag=F391154&Type=svg"}
