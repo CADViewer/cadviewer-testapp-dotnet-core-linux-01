@@ -1,0 +1,6 @@
+First in LoadFile:/content/customInsertSpaceObjectMenu/cadviewercustomspacecommands.json,none,menufile
+LoadFile:content/customInsertSpaceObjectMenu/cadviewercustomspacecommands.json
+loadtype:menufile  updated filePath /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/content/customInsertSpaceObjectMenu/cadviewercustomspacecommands.json
+before check loadtype:menufile loadtype.IndexO=-1  updated filePath /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/content/customInsertSpaceObjectMenu/cadviewercustomspacecommands.json
+after ServerUrl match check: filePath: /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/content/customInsertSpaceObjectMenu/cadviewercustomspacecommands.json
+Error: file does not exist 

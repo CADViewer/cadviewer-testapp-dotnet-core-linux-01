@@ -1,0 +1,11 @@
+total parameters: 2
+0,f","paramValue":"svg"},{"paramName":"last","paramValue":""}
+1,last","paramValue":""}
+WriteFile: /home/myuser/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F816034.dwg
+XXX /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg
+"-i="/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg"" "-o="/home/myuser/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F816034.svg"" "-lpath=/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/" "-f="svg"" -last
+/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/ax2023_L64_23_10_105  "-i="/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg"" "-o="/home/myuser/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F816034.svg"" "-lpath=/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/" "-f="svg"" -last
+New The command:  /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/ax2023_L64_23_10_105 "-i="/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg"" "-o="/home/myuser/cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/files/F816034.svg"" "-lpath=/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot/converters/ax2023/linux/" "-f="svg"" -last
+Conversion done 
+Content location: /home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg output format: svgXX
+SVG response: {"completedAction":"svg_creation","errorCode":"E0","converter":"AutoXchange AX2017","version":"V1.00","userLabel":"fromCADViewerJS","contentLocation":"/home/myuser//cadviewer-testapp-dotnet-core-linux-01/cadviewer/cadviewer/wwwroot//content/drawings/dwg/Asbestos_drawing_01.dwg","contentResponse":"stream","contentStreamData":"/CADViewer/getFile?remainOnServer=0&fileTag=F816034&Type=svg"}
